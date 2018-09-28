@@ -1,2 +1,2 @@
 # SwaggerNet
-.net class library for swagger object
+.net class library for swagger spec 2.0
