@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SwaggerLib</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>hfjia</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/justin0522/SwaggerNet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/justin0522/SwaggerNet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>description</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>swagger .net c#</tags>
+  </metadata>
+</package>
